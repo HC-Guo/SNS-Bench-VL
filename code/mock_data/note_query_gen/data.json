@@ -1,0 +1,28 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Question"
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "model_result": "A"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Question"
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "model_result": "B"
+    }
+]

@@ -1,0 +1,5 @@
+# bge-large-en-1.5 model path configuration
+bge_path: /path/to/bge-large-en-1.5
+# Replace with your actual model name and model path  
+model_dict:
+  qwen_2_5_instruct_3b: mock_data

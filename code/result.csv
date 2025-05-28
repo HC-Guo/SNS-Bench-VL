@@ -1,0 +1,14 @@
+,qwen_2_5_instruct_3b
+note_MRC,1.0000001192092896
+note_hashtag_single,1.0
+note_hashtag_multi,0.5833333333333333
+note_taxonomy_one_level,0.0
+note_taxonomy_three_level,0.0
+note_gender,1.0
+note_querycorr_2_level,1.0
+note_querycorr_5_level,1.0
+note_comment_primary,1.0
+note_comment_sub_level,1.0
+note_ocr,0.8629713632370786
+note_query_gen,1.0
+total_score,0.7871920679816418
