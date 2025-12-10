@@ -23,8 +23,8 @@ metrics_map = {
     "note_hashtag_multi": "calculate_multiple_choice_f1",
     
     # Note-Taxonomy
-    "note_taxonomy_one_level": "calculate_three_level_accuracy",
-    "note_taxonomy_three_levels": "calculate_answer_accuracy",
+    "note_taxonomy_one_level": "calculate_answer_accuracy",
+    "note_taxonomy_three_levels": "calculate_three_level_accuracy",
 
     # Note-gender
     "note_gender": "calculate_answer_accuracy",
@@ -132,4 +132,5 @@ def main():
 if __name__ == "__main__":
     import metrics
     main()
+
     # check_none_main() 
